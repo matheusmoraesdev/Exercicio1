@@ -1,3 +1,3 @@
 ## Lista 1 Exercício 1
 
-  Alô Mundo
+  Faça um Programa que mostre a mensagem "Alo mundo" na tela.
